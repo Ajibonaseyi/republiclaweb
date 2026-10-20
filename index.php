@@ -25,7 +25,7 @@
 									<div _ngcontent-ruf-c1="" class="banner-item">
 										<div _ngcontent-ruf-c1="" class="banner-left">
 											<h1 _ngcontent-ruf-c1="">The Republic Law</h1>
-											<p _ngcontent-ruf-c1="">We strive to provide legal solutions that empower our clients and promote the greater good.</p>
+											<p _ngcontent-ruf-c1="">We strive to provide legal solution that empower our clients and promote the greater good.</p>
 											<a _ngcontent-ruf-c1="" routerlink="/about" ng-reflect-router-link="/about" href="<?php echo SITE_URL; ?>about">LEARN MORE <i _ngcontent-ruf-c1="" class="icofont-arrow-right"></i>
 											</a>
 										</div>
