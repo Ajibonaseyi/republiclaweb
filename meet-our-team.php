@@ -148,7 +148,7 @@
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,2,Juliette Ukpabi">
 								<a href="
 									<?php echo SITE_URL;?>#">
-									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/Dummy.png">
+									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/dummy.png">
 								</a>
 							</div>
 							<div _ngcontent-ruf-c3="" class="team-item" style="background-color: #ecececb4; padding: 0px;">
