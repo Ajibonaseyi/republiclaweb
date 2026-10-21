@@ -29,13 +29,13 @@
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'George Akpan'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,1,George Akpan" href="<?php echo SITE_URL; ?>george-akpan">George Akpan</a>
                         </li>-->
                        <!-- <li _ngcontent-ruf-c19="" class="nav-item">
-                          <a _ngcontent-ruf-c19="" class="nav-link <?php // if ($page_name == 'Theodore Oware'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php // echo SITE_URL; ?>meet-our-team,2,Theodore Owar" href="<?php // echo SITE_URL; ?>theodore-oware">Theodore Oware</a>
+                          <a _ngcontent-ruf-c19="" class="nav-link <?php // if ($page_name == 'Juliette Ukpabi'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php // echo SITE_URL; ?>meet-our-team,2,Juliette Ukpabi" href="<?php // echo SITE_URL; ?>#">Juliette Ukpabi</a>
                         </li>-->
-                       <!-- <li _ngcontent-ruf-c19="" class="nav-item">
-                          <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'David Ike'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,3,David Ike" href="<?php echo SITE_URL; ?>david-ike">David Ike</a>
+                      <!-- <li _ngcontent-ruf-c19="" class="nav-item">
+                          <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Diego-Dasilva'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,3,Diego Dasilva" href="<?php echo SITE_URL; ?>#">Diego Wasiljew C. da Silva</a>
                         </li>-->
 						<li _ngcontent-ruf-c19="" class="nav-item">
-                          <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Harriet Igwe'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,4,Harriet Igwe" href="<?php echo SITE_URL; ?>harriet-igwe">Harriet Igwe</a>
+                          <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Harleen Dhillon'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,4,Harleen Dhillon" href="<?php echo SITE_URL; ?>harleen-dhillon">Harleen Dhillon</a>
                         </li>
                       </ul>
                     </li>
