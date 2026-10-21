@@ -25,7 +25,7 @@
                   <h1>Harleen Dhillon</h1>
                   <h3 style="color: #C8B085; padding-bottom: 0px;"></h3>
                 </div>
-                <img alt="Details" class="lawyer-img" srcset="images/Harleen.Png">
+                <img alt="Details" class="lawyer-img" srcset="images/Harleen.png">
                 <div class="attor-details-left">
                   <div class="attor-social-details" style="padding-top: 50px;">
                     <h3>Contact Info</h3>
