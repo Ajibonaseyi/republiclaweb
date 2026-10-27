@@ -4,7 +4,7 @@
 	$page_name = 'Ugo Ukpabi, C.Dir., K.C.';
 	$page_parent = 'Meet Our Team';
 	$page_desc = 'Dr. Ugo Ukpabi, the Founder and Principal at The Republic Law, possesses a wealth of experience as a highly respected litigator specializing in corporate, commercial, and civil litigation.';
-	$page_image = 'images/Ugo.webp';
+	$page_image = 'images/Ugo.png';
 	
 	include_once ( 'inc/head.php' );
 ?>
@@ -25,7 +25,7 @@
                   <h1>Ugo Ukpabi, C.Dir., K.C.</h1>
                   <h3 style="color: #C8B085; padding-bottom: 0px;">Founder, Lawyer</h3>
                 </div>
-                <img alt="Details" class="lawyer-img" srcset="images/Ugo.webp">
+                <img alt="Details" class="lawyer-img" srcset="images/Ugo.png">
                 <div class="attor-details-left">
                   <div class="attor-social-details" style="padding-top: 50px;">
                     <h3>Contact Info</h3>
@@ -84,11 +84,15 @@
 								</h2>
 								<div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
 									<div class="accordion-body">
-										Dr. Ugo Ukpabi, the Founder and Principal at The Republic Law, possesses a wealth of experience as a highly respected litigator specializing in corporate, commercial, and civil litigation. 
+										Dr. Ugo Ukpabi, C.Dir., K.C., is the Founder and Principal of The Republic Law. In recognition of his distinguished service to the legal profession, excellent advocacy, and his contributions to the administration of justice, he was appointed King's Counsel (formerly, Queen's Counsel) in 2022, one of the highest honors bestowed upon members of the legal profession. Dr. Ukpabi earned his doctorate from Osgoode Hall Law School, York University, Toronto, Canada, and as well, was a Grotius Fellow at the University of Michigan Law School, Ann Arbor, USA.
 										<br><br>
-										With over two decades of expertise and a comprehensive understanding of different legal markets, including international legal systems, he provides exceptional legal guidance and strong advocacy to his clients. Dr. Ugo Ukpabi has exposure to legal regimes in Nigeria, Geneva, USA, and Canada. Driven by a client-centered approach, he is dedicated to finding creative solutions to complex legal challenges while maintaining the highest ethical standards. Clients who work with Dr. Ukpabi can trust his unwavering commitment to protecting their interests and achieving their desired outcomes. 
+										With over two decades of legal and strategic advisory experience, Dr. Ukpabi is highly regarded for his work in corporate, commercial, civil litigation, governance, and international development matters. His practice is distinguished by a commitment to excellence, professionalism, and client-focused advocacy, earning him the respect of clients, colleagues, and stakeholders across multiple jurisdictions. 
 										<br><br>
-										Dr. Ugo Ukpabi has excelled in handling a wide range of litigation matters, appearing before all levels of Alberta courts. His exposure to various legal systems and ability to navigate cross-border issues bring invaluable insights and strategic advantages to his clients. Known for his sensitivity, tact, and deep understanding of their unique circumstances, Dr. Ugo Ukpabi provides exceptional legal representation, making him a highly sought-after litigator in the corporate, commercial, and civil arenas.
+										Dr. Ukpabi has exposure to legal regimes in Nigeria, Geneva, the USA, and Canada. His experience includes advising on cross-border corporate and commercial transactions, governance frameworks, regulatory compliance, capacity development initiatives, and institutional strengthening programs. Dr. Ukpabi has also worked with governments, businesses, and international stakeholders on legal and policy matters relating to economic development and reform.
+										<br><br>
+										Driven by a client-centered approach, Dr. Ukpabi is dedicated to finding creative solutions to complex legal and development challenges while maintaining the highest ethical standards. His exposure to various legal systems and ability to navigate cross-border issues bring invaluable insights and strategic advantages to clients and stakeholders alike. 
+										<br><br>
+										Known for his sensitivity, tact, and deep understanding of complex legal and institutional environments, Dr. Ukpabi is recognized for delivering practical solutions that promote good governance, sustainable development, and long-term institutional resilience. A Nigerian and Canadian national, Dr. Ukpabi volunteers extensively, and is currently, a Trustee to the Nigerian Canadian Association of Calgary (NCAC).
 									</div>
 								</div>
 							</div>
