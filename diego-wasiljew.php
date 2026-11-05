@@ -4,7 +4,7 @@
 	$page_name = 'Diego Wasiljew';
 	$page_parent = 'Meet Our Team';
 	$page_desc = 'Diego Wasiljew is a Legal Assistant at The Republic Law, where he supports the firm’s lawyers and clients.';
-	$page_image = 'images/diego.png';
+	$page_image = 'images/Diego.PNG';
 	
 	include_once ( 'inc/head.php' );
 ?>
