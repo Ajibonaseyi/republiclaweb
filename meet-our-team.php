@@ -148,7 +148,7 @@
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,2,Juliette Ukpabi">
 								<a href="
 									<?php echo SITE_URL;?>#">
-									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/dummy.png">
+									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/Dummy.png">
 								</a>
 							</div>
 							<div _ngcontent-ruf-c3="" class="team-item" style="background-color: #ecececb4; padding: 0px;">
@@ -178,7 +178,7 @@
 						<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Harleen Dhillon">
 								<a href="
-									<?php echo SITE_URL;?>#">
+									<?php echo SITE_URL;?>diego-wasiljew">
 									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/Diego.png">
 								</a>
 							</div>
@@ -186,7 +186,7 @@
 								<div _ngcontent-ruf-c3="" class="lawyer-card" style="padding: 15px;">
 									<h3 _ngcontent-ruf-c3="" style="padding-top: 10px; color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Harleen Dhillon">
 										<a _ngcontent-ruf-c3="" href="
-												<?php echo SITE_URL;?>#" style="color: #142233;">Diego Wasiljew C. da Silva </a>
+												<?php echo SITE_URL;?>diego-wasiljew" style="color: #142233;">Diego Wasiljew C. da Silva </a>
 									</h3>
 									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,Diego Wasiljew C. da Silva"></span>
 									<hr _ngcontent-ruf-c3="" style="color: #142233;">
