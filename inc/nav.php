@@ -31,9 +31,9 @@
                        <!-- <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php // if ($page_name == 'Juliette Ukpabi'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php // echo SITE_URL; ?>meet-our-team,2,Juliette Ukpabi" href="<?php // echo SITE_URL; ?>#">Juliette Ukpabi</a>
                         </li>-->
-                      <!-- <li _ngcontent-ruf-c19="" class="nav-item">
-                          <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Diego-Dasilva'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,3,Diego Dasilva" href="<?php echo SITE_URL; ?>#">Diego Wasiljew C. da Silva</a>
-                        </li>-->
+                     <li _ngcontent-ruf-c19="" class="nav-item">
+                          <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Diego-Wasiljew'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,3,Diego Wasiljew" href="<?php echo SITE_URL; ?>diego-wasiljew">Diego Wasiljew</a>
+                        </li>
 						<li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Harleen Dhillon'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,4,Harleen Dhillon" href="<?php echo SITE_URL; ?>harleen-dhillon">Harleen Dhillon</a>
                         </li>
