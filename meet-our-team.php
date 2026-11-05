@@ -188,7 +188,7 @@
 										<a _ngcontent-ruf-c3="" href="
 												<?php echo SITE_URL;?>diego-wasiljew" style="color: #142233;">Diego Wasiljew C. da Silva </a>
 									</h3>
-									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,Diego Wasiljew C. da Silva"></span>
+									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,Diego Wasiljew C. da Silva"> Legal Assistant</span>
 									<hr _ngcontent-ruf-c3="" style="color: #142233;">
 									<ul _ngcontent-ruf-c3="" style="list-style: none; padding: 0; margin: 0;">
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
